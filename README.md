@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Master Next.js 15 in 7 Hours! Full Beginner’s Course (2025) 동영상 강좌 중에서
+고급 프로젝트 (Github 인증 활용)이다.
+토픽을 저장하고, 하나의 토픽에 대하여 post 를 추가할 수 있고, 해당 Post 는 댓글(코멘트) 를 달 수 있다.
+post 추가 , 상세 보기 까지 했고, 각 포스트 마다 코멘트 다는 부분부터는 너무 지루해서 작업 중단함 ㅋㅋ
 
 ## Getting Started
 
@@ -24,8 +27,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
